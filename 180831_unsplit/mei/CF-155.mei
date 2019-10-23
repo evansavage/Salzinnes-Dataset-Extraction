@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-f8676702-acac-407b-b879-11d5a56e400e" xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+	<meiHead xml:id="m-7676d0c8-520a-4350-b17a-fbeb88627fd0" />
+	<music xml:id="m-a387a0e8-4e7b-449f-a960-d99a524eaa03">
+		<facsimile xml:id="m-0f20d0a5-a4e7-4e5c-9ecf-3771af6e0e5b">
+			<surface xml:id="m-31c95cad-c1c1-4486-b8b8-287e03337f36" lry="6930" lrx="4414" ulx="0" uly="0">
+				<graphic xml:id="m-f84bd210-ea9c-42af-93f5-5df7a26e346e" xlink:href="False" />
+				<zone xml:id="m-240a64f9-e24d-4dfa-98d5-63f790810532" lry="3605" lrx="3478" ulx="1042" uly="3411" />
+				<zone xml:id="m-89e826ea-2e7a-475b-b3c6-99e1e6a98e88" lry="3489" lrx="1089" ulx="1049" uly="3424" />
+				<zone xml:id="m-f15e72f2-419f-4661-9d22-c4acdf3ce88b" lry="3548" lrx="1085" ulx="1049" uly="3477" />
+				<zone xml:id="m-2b2f46bf-f903-48ed-a49d-a8b2b482272b" lry="3572" lrx="1209" ulx="1166" uly="3527" />
+				<zone xml:id="m-9fcfe43a-8eee-48c6-9418-9ecee6aeedd0" lry="3558" lrx="1391" ulx="1350" uly="3516" />
+				<zone xml:id="m-611b3509-9330-40e1-8aa8-d99446a544f1" lry="3600" lrx="1432" ulx="1391" uly="3558" />
+				<zone xml:id="m-c48842e5-cf25-4c84-9726-73f67646dd32" lry="3511" lrx="1557" ulx="1508" uly="3466" />
+				<zone xml:id="m-3f452894-5e91-4ee5-8185-11374aa06720" lry="3474" lrx="1637" ulx="1601" uly="3428" />
+				<zone xml:id="m-080b8678-5f43-4cf6-83ef-15fb9c53406b" lry="3604" lrx="1705" ulx="1676" uly="3409" />
+				<zone xml:id="m-8447bbc0-b2fa-4d49-9316-1628aa6678fe" lry="3569" lrx="1912" ulx="1867" uly="3523" />
+				<zone xml:id="m-50517a80-5342-4117-b5a0-6dd209f56f7c" lry="3563" lrx="2009" ulx="1970" uly="3518" />
+				<zone xml:id="m-b8889127-57cd-427a-8819-89f4b55c1f05" lry="3608" lrx="2048" ulx="2009" uly="3563" />
+				<zone xml:id="m-da477aa0-ff53-405c-be8e-cd27ab03db55" lry="3515" lrx="2202" ulx="2160" uly="3470" />
+				<zone xml:id="m-0469ca7f-9c2f-4d69-9197-3934b500bc33" lry="3471" lrx="2315" ulx="2277" uly="3420" />
+				<zone xml:id="m-ba9ea0ac-681f-4448-aa34-6f8759ad6f0d" lry="3522" lrx="2518" ulx="2479" uly="3478" />
+				<zone xml:id="m-2230a3a8-50f3-4c12-b4b4-9e5b9a6faa1e" lry="3478" lrx="2557" ulx="2518" uly="3434" />
+				<zone xml:id="m-7650106b-6422-484f-96f5-7d6449979f81" lry="3434" lrx="2596" ulx="2557" uly="3390" />
+				<zone xml:id="m-b69592d3-489c-4d25-ab93-8dc3f75a25ee" lry="3442" lrx="2661" ulx="2618" uly="3394" />
+				<zone xml:id="m-8c543e6f-a93c-4a53-af3b-7184be4f443c" lry="3441" lrx="2820" ulx="2777" uly="3396" />
+				<zone xml:id="m-6aef4e88-64e5-4af6-9d78-fbf947e161fb" lry="3462" lrx="2885" ulx="2845" uly="3417" />
+				<zone xml:id="m-b1ef16da-fa9e-4443-8d6f-cdf94f24d2c1" lry="3507" lrx="2925" ulx="2885" uly="3462" />
+				<zone xml:id="m-4a8f8e27-b235-4452-b935-452515a02910" lry="3539" lrx="3029" ulx="2992" uly="3495" />
+				<zone xml:id="m-be87a075-db0e-4a09-801f-5894c10a39e3" lry="3495" lrx="3066" ulx="3029" uly="3451" />
+				<zone xml:id="m-bd250bc2-b08a-45e4-af29-53323411291a" lry="3347" lrx="3108" ulx="3090" uly="3262" />
+				<zone xml:id="m-2860bb63-5036-4c4e-8eeb-b571f1d8703f" lry="3480" lrx="3186" ulx="3143" uly="3423" />
+				<zone xml:id="m-ed0a0f69-1fa1-4595-99ee-b66d4c246572" lry="3492" lrx="3333" ulx="3293" uly="3447" />
+				<zone xml:id="m-c7c1d90d-f964-442a-b090-ae61a2ae6850" lry="3537" lrx="3373" ulx="3333" uly="3492" />
+				<zone xml:id="m-8bfa0b65-19e6-4da3-bd63-d2855e05f74d" lry="3566" lrx="3443" ulx="3418" uly="3507" />
+				<zone xml:id="m-3d09623c-6a7e-44eb-8acf-cfc40ccc6bc8" lry="3978" lrx="3480" ulx="771" uly="3777" />
+				<zone xml:id="m-8c3de3ee-a7e7-4311-ab15-1752c8ec2a7d" lry="3698" lrx="340" ulx="320" uly="3587" />
+				<zone xml:id="m-02703f68-e536-4d87-a6ab-d15330aebc07" lry="3935" lrx="815" ulx="782" uly="3798" />
+				<zone xml:id="m-79e85610-505a-451a-b658-bc51167e17fa" lry="3949" lrx="963" ulx="920" uly="3902" />
+				<zone xml:id="m-06d3e718-be7f-4176-b266-0fc0b73ddbb1" lry="3943" lrx="1097" ulx="1054" uly="3898" />
+				<zone xml:id="m-0b3fe501-ece9-4c40-a755-4ba673a26f3e" lry="3959" lrx="1392" ulx="1342" uly="3901" />
+				<zone xml:id="m-536f4350-0be5-4169-9f1e-594ae9e18524" lry="3879" lrx="1510" ulx="1470" uly="3837" />
+				<zone xml:id="m-aa1a5450-6fca-4072-8c39-d34525b4a335" lry="3921" lrx="1550" ulx="1510" uly="3879" />
+				<zone xml:id="m-b94b3e45-a3ab-4599-9d97-5b33dfccc899" lry="3946" lrx="1667" ulx="1621" uly="3896" />
+				<zone xml:id="m-859c7f26-c047-4215-82ea-4bce42f18b66" lry="3931" lrx="1833" ulx="1793" uly="3884" />
+				<zone xml:id="m-02c01d96-e021-442e-ade5-bd9779a37b76" lry="3978" lrx="1873" ulx="1833" uly="3931" />
+				<zone xml:id="m-56ea7655-0151-49c5-906b-0e4cf4438aa2" lry="3885" lrx="2006" ulx="1965" uly="3842" />
+				<zone xml:id="m-4ccfeaf8-3193-4374-be0b-92ce66108856" lry="3851" lrx="2115" ulx="2074" uly="3803" />
+				<zone xml:id="m-ce5003c3-2489-4fab-9648-3880a5e67b9d" lry="3891" lrx="2199" ulx="2162" uly="3848" />
+				<zone xml:id="m-a921e1e7-c3cd-47e3-a6ce-609f64f25292" lry="3847" lrx="2236" ulx="2199" uly="3804" />
+				<zone xml:id="m-b31dc39a-534b-4f65-bb6e-e8ccb1999c47" lry="3804" lrx="2273" ulx="2236" uly="3761" />
+				<zone xml:id="m-ae1fd5ad-7811-4f2e-b215-310b61204b81" lry="3819" lrx="2360" ulx="2314" uly="3767" />
+				<zone xml:id="m-81213f9d-9541-4d31-abf3-d40671989eac" lry="3856" lrx="2406" ulx="2368" uly="3792" />
+				<zone xml:id="m-6e25f058-ebce-4339-a341-ee159ece1148" lry="3886" lrx="2451" ulx="2407" uly="3820" />
+				<zone xml:id="m-53cb3978-f49c-4953-8c73-73b540fc4754" lry="3919" lrx="2501" ulx="2452" uly="3849" />
+				<zone xml:id="m-4340c38b-0f2d-4020-aa12-f452c4cbf673" lry="3956" lrx="2553" ulx="2497" uly="3887" />
+				<zone xml:id="m-84b8d5a3-219a-4fe0-acaa-5222135520ad" lry="3875" lrx="2643" ulx="2599" uly="3830" />
+				<zone xml:id="m-1492a60f-2780-45c4-8608-6600db921207" lry="3838" lrx="2760" ulx="2720" uly="3787" />
+				<zone xml:id="m-995c44fa-40fa-4324-a9a0-ad1c32e08a9d" lry="3892" lrx="2936" ulx="2899" uly="3851" />
+				<zone xml:id="m-31124cb9-80b5-48a4-8599-8c62b03b1717" lry="3933" lrx="2973" ulx="2936" uly="3892" />
+				<zone xml:id="m-9a9f5285-4064-4836-8dcc-e80ee6e94dea" lry="3863" lrx="3056" ulx="3015" uly="3818" />
+				<zone xml:id="m-27720cc5-e949-4cad-bb9e-f9cb8eaa61f7" lry="3908" lrx="3097" ulx="3056" uly="3863" />
+				<zone xml:id="m-9d2032bd-b732-44de-ba02-2b592b21219e" lry="3943" lrx="3320" ulx="3278" uly="3882" />
+				<zone xml:id="m-0c46b8e3-7e9b-44e4-b71a-e937ceb52056" lry="3932" lrx="3434" ulx="3410" uly="3874" />
+				<zone xml:id="m-acab6186-4c82-439a-a876-17fda1df0c67" lry="4362" lrx="3446" ulx="766" uly="4166" />
+				<zone xml:id="m-a8bd3570-2184-4aee-b078-dc4222e66cba" lry="4319" lrx="812" ulx="781" uly="4232" />
+				<zone xml:id="m-e1b4c92d-623e-41cc-8c1e-685f6ab8f72e" lry="4248" lrx="811" ulx="783" uly="4170" />
+				<zone xml:id="m-ebfd2ce5-be68-4fa8-baca-bd0364b825c6" lry="4329" lrx="941" ulx="899" uly="4285" />
+				<zone xml:id="m-6ecae4b4-23a8-4c84-a964-be06b27fc0c0" lry="4338" lrx="1082" ulx="1041" uly="4289" />
+				<zone xml:id="m-783ffd06-9b79-4ed7-b20b-b439879d8d21" lry="4212" lrx="1224" ulx="1182" uly="4164" />
+				<zone xml:id="m-1e8b868b-a202-4d87-9be0-84c990c52090" lry="4208" lrx="1353" ulx="1302" uly="4161" />
+				<zone xml:id="m-3e5007ee-e16c-452e-8129-9b8d60f04668" lry="4235" lrx="1493" ulx="1452" uly="4190" />
+				<zone xml:id="m-26df2074-26c7-45ec-baa9-076477214fd4" lry="4280" lrx="1534" ulx="1493" uly="4235" />
+				<zone xml:id="m-44391693-c3d9-4244-9b92-a4584779ddf6" lry="4235" lrx="1762" ulx="1720" uly="4190" />
+				<zone xml:id="m-89cd284a-60d9-4707-a6e9-ae61ed4515e7" lry="4245" lrx="1885" ulx="1843" uly="4198" />
+				<zone xml:id="m-21f3973c-7194-4dd8-82e4-a86ab4d9a827" lry="4198" lrx="1927" ulx="1885" uly="4151" />
+				<zone xml:id="m-a2e8f197-3be1-4ae2-a563-7342f0e653e4" lry="4210" lrx="2111" ulx="2055" uly="4164" />
+				<zone xml:id="m-49724984-e994-4213-af1c-58c44dc3a23f" lry="4206" lrx="2325" ulx="2278" uly="4161" />
+				<zone xml:id="m-4e6412ad-79a1-4627-b529-37c8ec894b50" lry="4244" lrx="2514" ulx="2471" uly="4189" />
+				<zone xml:id="m-107a58fb-173e-49c5-8d9a-28209ef62666" lry="4170" lrx="2539" ulx="2500" uly="4122" />
+				<zone xml:id="m-c46465b6-95ba-4b73-b2a0-ab73d60fb7ce" lry="4208" lrx="2628" ulx="2585" uly="4161" />
+				<zone xml:id="m-8ab9beaa-86cb-4225-ae38-ba40518b5f5d" lry="4239" lrx="2740" ulx="2705" uly="4194" />
+				<zone xml:id="m-be2b9886-3cca-4a2b-9c98-854c29730b0a" lry="4194" lrx="2775" ulx="2740" uly="4149" />
+				<zone xml:id="m-b3d99a13-949e-407a-95f7-38c543a218a9" lry="4200" lrx="2845" ulx="2801" uly="4145" />
+				<zone xml:id="m-663089de-a57b-4b9d-b641-9fd57c764bfe" lry="4237" lrx="2892" ulx="2852" uly="4173" />
+				<zone xml:id="m-0eecf91c-e0ce-4b62-bd98-a75ad4fd5d5a" lry="4275" lrx="2937" ulx="2893" uly="4200" />
+				<zone xml:id="m-6367bd86-fcfb-4509-9628-ce96d255a64a" lry="4298" lrx="2978" ulx="2935" uly="4230" />
+				<zone xml:id="m-936437a5-6642-49d4-b8d1-cf240b22efc5" lry="4335" lrx="3029" ulx="2983" uly="4260" />
+				<zone xml:id="m-f25d52be-b993-4793-955f-12cb18776bd1" lry="4271" lrx="3176" ulx="3127" uly="4218" />
+				<zone xml:id="m-6a3e064e-f7ad-4555-a7fa-b73bf83d9b02" lry="4246" lrx="3304" ulx="3261" uly="4176" />
+				<zone xml:id="m-ccdaf5dd-ab4f-4a5f-aa97-beed70672efa" lry="4279" lrx="3431" ulx="3392" uly="4208" />
+				<zone xml:id="m-c5308e3c-3305-4a01-a421-149764245dbf" lry="4733" lrx="3475" ulx="791" uly="4536" />
+				<zone xml:id="m-3d1ec561-baa1-43d9-bbf8-502d78edd780" lry="4679" lrx="826" ulx="793" uly="4540" />
+				<zone xml:id="m-170ef513-1001-4459-b713-1d554fc2cf15" lry="4671" lrx="928" ulx="890" uly="4617" />
+				<zone xml:id="m-a5374957-aabd-40cd-beed-bec151078448" lry="4626" lrx="1019" ulx="980" uly="4581" />
+				<zone xml:id="m-c713aa62-65c8-4dc9-ae39-02cd37e791f9" lry="4671" lrx="1058" ulx="1019" uly="4626" />
+				<zone xml:id="m-3225c29d-8d3b-4c90-9cc7-6f904a12d140" lry="4700" lrx="1285" ulx="1238" uly="4647" />
+				<zone xml:id="m-f5e0c92c-bb09-469c-81d1-8a1d40ddfc49" lry="4698" lrx="1438" ulx="1395" uly="4652" />
+				<zone xml:id="m-2050a429-bdb0-4808-a106-643b40a298e2" lry="4701" lrx="1716" ulx="1673" uly="4656" />
+				<zone xml:id="m-2009a85a-887c-4940-b1a6-6a326a9cd705" lry="4699" lrx="1944" ulx="1900" uly="4654" />
+				<zone xml:id="m-f5b38b25-a1a7-4c38-bdcd-92d2ee8555cd" lry="4699" lrx="2153" ulx="2112" uly="4653" />
+				<zone xml:id="m-04e14a51-dea4-42a7-abfa-d0efb284f1f5" lry="4632" lrx="2152" ulx="2115" uly="4586" />
+				<zone xml:id="m-2d1aebd9-bc25-4be0-9e81-00472f03bfcc" lry="4696" lrx="2461" ulx="2418" uly="4649" />
+				<zone xml:id="m-1e7b0916-e9a5-4f8e-aee9-6a474754150c" lry="4685" lrx="2597" ulx="2562" uly="4642" />
+				<zone xml:id="m-81499ac3-384e-4258-8384-7cc05af0cd2e" lry="4728" lrx="2632" ulx="2597" uly="4685" />
+				<zone xml:id="m-6cabe98b-8a73-4a26-a5c6-72c9117473fe" lry="4641" lrx="2770" ulx="2725" uly="4593" />
+				<zone xml:id="m-a3696f96-ee0c-45d3-a4a1-ab7f10f67ade" lry="4601" lrx="2864" ulx="2822" uly="4555" />
+				<zone xml:id="m-783ac884-12cc-443b-8297-13e1a109a266" lry="4639" lrx="2950" ulx="2915" uly="4597" />
+				<zone xml:id="m-a011d57c-3f6b-412b-89eb-c7008cae193f" lry="4597" lrx="2985" ulx="2950" uly="4555" />
+				<zone xml:id="m-13473431-0ae0-4400-87f2-04a7532fe8cd" lry="4555" lrx="3020" ulx="2985" uly="4513" />
+				<zone xml:id="m-2378f7f5-aca5-4909-9bf9-8da85efd7972" lry="4566" lrx="3132" ulx="3074" uly="4516" />
+				<zone xml:id="m-f6182182-709d-410e-920d-c9d8921d922b" lry="4564" lrx="3304" ulx="3261" uly="4515" />
+				<zone xml:id="m-0560d865-4646-485b-8401-3199591e743b" lry="4599" lrx="3427" ulx="3384" uly="4538" />
+				<zone xml:id="m-b5f8e7b1-cb72-4ddd-becc-8fb1d7b5f9dc" lry="5125" lrx="3449" ulx="790" uly="4930" />
+				<zone xml:id="m-38c258ac-02e5-46cc-a0e0-eedbd498c6e7" lry="5072" lrx="816" ulx="783" uly="4925" />
+				<zone xml:id="m-0c08ea69-bd8a-4dbe-a607-5854867dd11f" lry="5002" lrx="943" ulx="902" uly="4933" />
+				<zone xml:id="m-baae2b43-6d8f-4b2f-8679-f2d43bf18baa" lry="5065" lrx="1158" ulx="1114" uly="5002" />
+				<zone xml:id="m-0da06b41-aec6-41bd-9c60-a99e7a68ccf3" lry="5024" lrx="1269" ulx="1228" uly="4979" />
+				<zone xml:id="m-8321d87c-d3b8-4686-a4a1-14249f26c3f0" lry="5001" lrx="1415" ulx="1374" uly="4945" />
+				<zone xml:id="m-c49cc9e0-1352-413b-b66e-9f57fc02216c" lry="5019" lrx="1546" ulx="1508" uly="4975" />
+				<zone xml:id="m-4d5612c5-f7b4-4eb5-bb53-3a88e7630116" lry="5063" lrx="1584" ulx="1546" uly="5019" />
+				<zone xml:id="m-d736d9d6-b28b-4bc9-9ffb-642ea0d174e0" lry="5096" lrx="1680" ulx="1638" uly="5047" />
+				<zone xml:id="m-497eb7a5-ee15-40fb-b6f0-ce784ee4c981" lry="5094" lrx="1779" ulx="1737" uly="5049" />
+				<zone xml:id="m-68eb659d-7c87-4ccd-832d-32133a599a3f" lry="5128" lrx="1968" ulx="1924" uly="5074" />
+				<zone xml:id="m-c5beb20f-da5b-4d2d-a1d4-7196e90c0b5a" lry="5087" lrx="2162" ulx="2117" uly="5040" />
+				<zone xml:id="m-0b3ecd29-b8a2-4ada-979e-31f37067fb37" lry="5027" lrx="2404" ulx="2362" uly="4977" />
+				<zone xml:id="m-1da933bf-2712-44c8-836e-a68c3a627d81" lry="5072" lrx="2641" ulx="2595" uly="5009" />
+				<zone xml:id="m-d35cf2b9-fe38-404f-bc3d-b6b1b62a0dee" lry="5123" lrx="2958" ulx="2923" uly="5075" />
+				<zone xml:id="m-03f1e52c-27a8-4e3f-9e39-28e425a34c25" lry="5075" lrx="2993" ulx="2958" uly="5027" />
+				<zone xml:id="m-69b3a6d7-8516-4366-b6d7-5812ef3ba93a" lry="5109" lrx="3145" ulx="3104" uly="5055" />
+				<zone xml:id="m-15ca3a4f-808c-44f2-8c7f-7720c4811dc3" lry="5023" lrx="3280" ulx="3234" uly="4971" />
+				<zone xml:id="m-73720a05-37a3-4d5c-888f-60a8e3154cb9" lry="5057" lrx="3330" ulx="3289" uly="4988" />
+				<zone xml:id="m-d9daba16-8c82-4c54-a119-656c1756e5f9" lry="5088" lrx="3382" ulx="3335" uly="5022" />
+				<zone xml:id="m-c60a87dc-35bc-4461-88ec-b429d2f68332" lry="5044" lrx="3468" ulx="3418" uly="4965" />
+			</surface>
+		</facsimile>
+		<body xml:id="m-a29fcafd-410d-459d-b86e-5a00a9e8bc26">
+			<mdiv xml:id="m-1200ffd1-8c7d-459f-9d92-284512c48cfc">
+				<score xml:id="m-7f4b1a88-0796-4a64-84b7-0c09eeef2cdc">
+					<scoreDef xml:id="m-b9b6470e-af16-4b90-990e-003d3794fbe6">
+						<staffGrp xml:id="m-9b5e6f78-d4b5-4952-b762-41e992012629">
+							<staffDef xml:id="m-0c2f5ecc-0e72-40a7-aa7c-1c9408cf4967" n="1" lines="4" notationtype="neume" clef.line="3" clef.shape="C" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-b7706df3-b23d-4571-a84f-e23c53e0a2da">
+						<staff xml:id="m-e7482492-4a8d-4cdb-90cc-6ae333398cb6" facs="m-240a64f9-e24d-4dfa-98d5-63f790810532" n="1" lines="4" line_positions="[[[1042, 3299], [1043, 3299], [1050, 3299], [1261, 3298], [1471, 3297], [1681, 3295], [1891, 3296], [2101, 3296], [2312, 3294], [2522, 3292], [2732, 3292], [2942, 3291], [3152, 3290], [3363, 3289], [3477, 3287], [3478, 3287]], [[1042, 3361], [1043, 3361], [1050, 3361], [1261, 3360], [1471, 3359], [1681, 3357], [1891, 3358], [2101, 3358], [2312, 3356], [2522, 3354], [2732, 3354], [2942, 3353], [3152, 3352], [3363, 3351], [3477, 3349], [3478, 3349]], [[1042, 3423], [1043, 3423], [1050, 3423], [1261, 3422], [1471, 3421], [1681, 3419], [1891, 3420], [2101, 3420], [2312, 3418], [2522, 3416], [2732, 3416], [2942, 3415], [3152, 3414], [3363, 3413], [3477, 3411], [3478, 3411]], [[1042, 3485], [1043, 3486], [1050, 3486], [1261, 3484], [1471, 3484], [1681, 3484], [1891, 3483], [2101, 3483], [2312, 3480], [2522, 3479], [2732, 3477], [2942, 3477], [3152, 3475], [3363, 3473], [3477, 3470], [3478, 3470]], [[1042, 3544], [1043, 3544], [1050, 3544], [1261, 3544], [1471, 3544], [1681, 3544], [1891, 3544], [2101, 3543], [2312, 3541], [2522, 3539], [2732, 3537], [2942, 3536], [3152, 3535], [3363, 3532], [3477, 3531], [3478, 3531]], [[1042, 3605], [1043, 3605], [1050, 3605], [1261, 3605], [1471, 3605], [1681, 3603], [1891, 3603], [2101, 3604], [2312, 3602], [2522, 3600], [2732, 3598], [2942, 3597], [3152, 3595], [3363, 3592], [3477, 3591], [3478, 3590]], [[1042, 3667], [1043, 3667], [1050, 3667], [1261, 3667], [1471, 3667], [1681, 3665], [1891, 3665], [2101, 3666], [2312, 3664], [2522, 3662], [2732, 3660], [2942, 3659], [3152, 3657], [3363, 3654], [3477, 3653], [3478, 3652]], [[1042, 3729], [1043, 3729], [1050, 3729], [1261, 3729], [1471, 3729], [1681, 3727], [1891, 3727], [2101, 3728], [2312, 3726], [2522, 3724], [2732, 3722], [2942, 3721], [3152, 3719], [3363, 3716], [3477, 3715], [3478, 3714]]]">
+							<layer xml:id="m-1bc24215-02dc-4cb3-97ae-4e209541faca">
+								<syllable xml:id="m-1a32e59f-82a8-41ba-9397-5dcce5c3c410">
+									<!--inclinatum, inclinatum-->
+									<neume xml:id="m-9df144ac-6150-47a5-8954-47f2beaf47c8">
+										<nc xml:id="m-29ab1991-6888-4a5a-bfe8-4407066323d9" facs="m-89e826ea-2e7a-475b-b3c6-99e1e6a98e88" pname="d" oct="3" name="inclinatum" />
+										<nc xml:id="m-c20960ec-5d76-4e76-a214-bc7455c634d6" facs="m-f15e72f2-419f-4661-9d22-c4acdf3ce88b" pname="b" oct="2" name="inclinatum" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-c79a8e7d-5e85-43b9-8f16-c7fe7eef76b6">
+									<!--punctum-->
+									<neume xml:id="m-68ddd3e2-d0b4-46c0-b54f-f4602bcf704f">
+										<nc xml:id="m-9ebecedc-4027-44c2-8f9b-6e1acb42c7a8" facs="m-2b2f46bf-f903-48ed-a49d-a8b2b482272b" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-4ed048ea-d61c-4fcf-885d-df147e0ab11e">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-eea7bb15-d298-4867-89ca-1d32172c826a">
+										<nc xml:id="m-3a359ee6-4eab-4fea-acef-10f91b5ba2c2" facs="m-9fcfe43a-8eee-48c6-9418-9ecee6aeedd0" pname="a" oct="2" />
+										<nc xml:id="m-d1820f4c-fc42-4cfe-8658-2249fbe724fa" facs="m-611b3509-9330-40e1-8aa8-d99446a544f1" pname="g" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-ff0db2fb-5a0a-4686-804a-e8983adb6310">
+									<!--punctum-->
+									<neume xml:id="m-0798c867-c60a-4837-9ac0-0bcc3d8ce250">
+										<nc xml:id="m-54adccf0-502a-4065-9ae7-efd361f99e54" facs="m-c48842e5-cf25-4c84-9726-73f67646dd32" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-44ec1cb0-d848-47c4-929b-c26928f4c3e4">
+									<!--punctum-->
+									<neume xml:id="m-d17cfc24-cdc6-44f8-84b7-9a946ea81441">
+										<nc xml:id="m-75f95856-df09-4a02-9384-31d05cd105b9" facs="m-3f452894-5e91-4ee5-8185-11374aa06720" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<clef xml:id="m-8c6d9c7b-8137-4eda-8294-7c2f344ebcde" shape="C" line="3" facs="m-080b8678-5f43-4cf6-83ef-15fb9c53406b" />
+								<syllable xml:id="m-6ad096fb-700c-496c-ba20-4cfe72166844">
+									<!--punctum-->
+									<neume xml:id="m-677a88ba-3112-44f0-9b81-55fc2e12fff1">
+										<nc xml:id="m-7fb63806-c0a9-4ce6-a04e-8044dc8dfe90" facs="m-8447bbc0-b2fa-4d49-9316-1628aa6678fe" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-83cd5df8-280c-429f-a8ad-3207b0c889f3">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-2d14b6d1-09e9-4188-ac30-8a60ed8fe2a8">
+										<nc xml:id="m-436a1549-8696-4d7c-b09c-9444d96b509a" facs="m-50517a80-5342-4117-b5a0-6dd209f56f7c" pname="a" oct="2" />
+										<nc xml:id="m-14343437-16ad-423a-b0f2-27f3526b801c" facs="m-b8889127-57cd-427a-8819-89f4b55c1f05" pname="g" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-139e83ac-0452-4b4e-991d-55a889107ac4">
+									<!--punctum-->
+									<neume xml:id="m-1d05fd2c-dcc4-472a-a3ac-2931cbfa6b19">
+										<nc xml:id="m-788bd459-65cc-49a5-964b-dda259d640a6" facs="m-da477aa0-ff53-405c-be8e-cd27ab03db55" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-29e3da53-5d65-4cd4-86de-65450ad9a685">
+									<!--punctum-->
+									<neume xml:id="m-c4f8d525-b1f0-4924-a5cc-0cd7b2bc2727">
+										<nc xml:id="m-b87b3a1c-d447-44a4-94d7-a627938328bd" facs="m-0469ca7f-9c2f-4d69-9197-3934b500bc33" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-80ae3205-7483-4915-abe2-c7f34b262059">
+									<!--punctum.u2.punctum.u2.punctum-->
+									<neume xml:id="m-231e709a-8e47-4c0f-b87e-08a2d1defe28">
+										<nc xml:id="m-59f2cf63-bb22-46c2-9b69-c34e38a5395b" facs="m-ba9ea0ac-681f-4448-aa34-6f8759ad6f0d" pname="c" oct="3" />
+										<nc xml:id="m-1d2e486d-3c97-437a-adec-c410acc9c35d" facs="m-2230a3a8-50f3-4c12-b4b4-9e5b9a6faa1e" pname="d" oct="3" />
+										<nc xml:id="m-1b669cbd-106e-454b-8cde-bd73a87dec9b" facs="m-7650106b-6422-484f-96f5-7d6449979f81" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-a6223eba-505c-433f-9893-7ce5263f1487">
+									<!--punctum-->
+									<neume xml:id="m-4f2d3733-a6ed-4b3c-a9b7-6f76c4c3e214">
+										<nc xml:id="m-9cc3a97e-b934-4ae6-82b2-2e69e098769c" facs="m-b69592d3-489c-4d25-ab93-8dc3f75a25ee" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-69b32dc4-251d-4a63-bc90-dd1e41804dc8">
+									<!--punctum-->
+									<neume xml:id="m-a7674193-308c-46e8-8d05-1b025712c8eb">
+										<nc xml:id="m-670a88fb-ed76-49e2-8936-9e6311544cc7" facs="m-8c543e6f-a93c-4a53-af3b-7184be4f443c" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-0c1ccf6b-a0cb-4fe0-888f-2af74a9a294a">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-e649ba79-7325-4ee6-b992-46a1ae023f55">
+										<nc xml:id="m-b3b87090-20d8-4926-bd7d-55dbaeda0291" facs="m-6aef4e88-64e5-4af6-9d78-fbf947e161fb" pname="d" oct="3" />
+										<nc xml:id="m-859c1222-ffeb-4827-91e7-e3b04e4febad" facs="m-b1ef16da-fa9e-4443-8d6f-cdf94f24d2c1" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-072a8100-b3f8-4612-90da-12a8d28b2afc">
+									<!--punctum.u2.punctum, inclinatum-->
+									<neume xml:id="m-e8a3dd64-90c3-4ab6-86c2-b31ee1e40ee5">
+										<nc xml:id="m-a58bb2fb-913d-4f44-a6bc-cb9663a9956f" facs="m-4a8f8e27-b235-4452-b935-452515a02910" pname="b" oct="2" />
+										<nc xml:id="m-001133ac-33cd-4e46-b575-364bd36c9109" facs="m-be87a075-db0e-4a09-801f-5894c10a39e3" pname="c" oct="3" />
+										<nc xml:id="m-1eda72d9-1c0f-4761-8e48-503efbd75674" facs="m-bd250bc2-b08a-45e4-af29-53323411291a" pname="b" oct="3" name="inclinatum" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-d6c0f18b-2091-4cbc-8d01-263db4ddf222">
+									<!--punctum-->
+									<neume xml:id="m-2f6cb9d7-45c8-4910-ab5f-cc6a07dd2702">
+										<nc xml:id="m-b963b939-bb15-429b-a6d7-49f1ab5cd448" facs="m-2860bb63-5036-4c4e-8eeb-b571f1d8703f" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-6b034465-8589-4f69-bb5b-ab8e3a14e4fb">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-d5fd1db2-b8d2-4e8f-80a4-c14a9123f512">
+										<nc xml:id="m-8067155b-b66f-4f64-868a-48f48b24bec3" facs="m-ed0a0f69-1fa1-4595-99ee-b66d4c246572" pname="c" oct="3" />
+										<nc xml:id="m-b2519aa0-8b44-495c-b0f1-e87acad6a199" facs="m-c7c1d90d-f964-442a-b090-ae61a2ae6850" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<custos xml:id="m-3e551c36-66a5-433d-99f5-c2ea1dbf3f1b" facs="m-8bfa0b65-19e6-4da3-bd63-d2855e05f74d" oct="2" pname="a" />
+							</layer>
+						</staff>
+						<staff xml:id="m-27b9cdd5-a2a5-44c2-bd0a-ed04dbbbf34f" facs="m-3d09623c-6a7e-44eb-8acf-cfc40ccc6bc8" n="2" lines="4" line_positions="[[[771, 3672], [772, 3672], [840, 3672], [1050, 3671], [1261, 3670], [1471, 3669], [1681, 3668], [1891, 3669], [2101, 3671], [2312, 3668], [2522, 3666], [2732, 3663], [2942, 3659], [3152, 3658], [3363, 3655], [3479, 3653], [3480, 3653]], [[771, 3734], [772, 3734], [840, 3734], [1050, 3733], [1261, 3732], [1471, 3731], [1681, 3730], [1891, 3731], [2101, 3733], [2312, 3730], [2522, 3728], [2732, 3725], [2942, 3721], [3152, 3720], [3363, 3717], [3479, 3715], [3480, 3715]], [[771, 3796], [772, 3796], [840, 3796], [1050, 3795], [1261, 3794], [1471, 3793], [1681, 3792], [1891, 3793], [2101, 3795], [2312, 3792], [2522, 3790], [2732, 3787], [2942, 3783], [3152, 3782], [3363, 3779], [3479, 3777], [3480, 3777]], [[771, 3858], [772, 3858], [840, 3858], [1050, 3857], [1261, 3857], [1471, 3856], [1681, 3855], [1891, 3854], [2101, 3856], [2312, 3854], [2522, 3851], [2732, 3848], [2942, 3846], [3152, 3843], [3363, 3840], [3479, 3839], [3480, 3838]], [[771, 3918], [772, 3918], [840, 3918], [1050, 3917], [1261, 3917], [1471, 3916], [1681, 3916], [1891, 3914], [2101, 3914], [2312, 3915], [2522, 3914], [2732, 3913], [2942, 3911], [3152, 3904], [3363, 3900], [3479, 3899], [3480, 3899]], [[771, 3978], [772, 3978], [840, 3978], [1050, 3977], [1261, 3978], [1471, 3977], [1681, 3976], [1891, 3974], [2101, 3974], [2312, 3975], [2522, 3972], [2732, 3969], [2942, 3966], [3152, 3964], [3363, 3959], [3479, 3958], [3480, 3958]], [[771, 4038], [772, 4038], [840, 4038], [1050, 4037], [1261, 4038], [1471, 4037], [1681, 4036], [1891, 4034], [2101, 4034], [2312, 4035], [2522, 4032], [2732, 4029], [2942, 4026], [3152, 4024], [3363, 4019], [3479, 4018], [3480, 4018]], [[771, 4098], [772, 4098], [840, 4098], [1050, 4097], [1261, 4098], [1471, 4097], [1681, 4096], [1891, 4094], [2101, 4094], [2312, 4095], [2522, 4092], [2732, 4089], [2942, 4086], [3152, 4084], [3363, 4079], [3479, 4078], [3480, 4078]]]">
+							<layer xml:id="m-fe39eacd-5db0-4cbd-8c32-cdf0630f68d6">
+								<clef xml:id="m-722e5296-e0dd-41a8-8d09-650556287cb8" shape="C" line="6" facs="m-8c3de3ee-a7e7-4311-ab15-1752c8ec2a7d" />
+								<clef xml:id="m-bd4b0136-5349-4bdf-a345-071c9699004e" shape="C" line="3" facs="m-02703f68-e536-4d87-a6ab-d15330aebc07" />
+								<syllable xml:id="m-e2f7e39c-3140-4a54-90ce-73ed08479b50">
+									<!--punctum-->
+									<neume xml:id="m-85326db6-9098-4613-a0f4-fb518be328d3">
+										<nc xml:id="m-bd84d8ce-53a5-4a3c-9f91-9ab3b59767cb" facs="m-79e85610-505a-451a-b658-bc51167e17fa" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-eb8d7e9d-9211-4d7b-a286-efad020540ab">
+									<!--punctum-->
+									<neume xml:id="m-49c961ba-809d-49a3-864b-8c449a22b0bc">
+										<nc xml:id="m-7454ee6a-ca14-4e36-b268-2ffd92070134" facs="m-06d3e718-be7f-4176-b266-0fc0b73ddbb1" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-16048a34-2a1d-4405-b41f-5adb4b8ae07f">
+									<!--punctum-->
+									<neume xml:id="m-ac4e4475-495e-4a1f-890f-2bff5ac42c3f">
+										<nc xml:id="m-d6233cf5-c4f1-4b25-bf22-21924060566f" facs="m-0b3fe501-ece9-4c40-a755-4ba673a26f3e" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-bdb0e622-9ed0-44a1-8628-60c705e3bba6">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-72e623ae-40b0-4535-9aeb-1fea4890c9f8">
+										<nc xml:id="m-d3140de7-ace3-4e42-b018-58d949607111" facs="m-536f4350-0be5-4169-9f1e-594ae9e18524" pname="c" oct="3" />
+										<nc xml:id="m-c8e5a7d0-3373-484a-8114-b458777b91a3" facs="m-aa1a5450-6fca-4072-8c39-d34525b4a335" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-bd7a0cdf-a9fb-4b37-907e-5bf8f8a04f6b">
+									<!--punctum-->
+									<neume xml:id="m-f0e5403a-d747-4e26-93d6-9cd84d09c0dc">
+										<nc xml:id="m-cbc4574f-d250-4804-8824-71c2403be3b1" facs="m-b94b3e45-a3ab-4599-9d97-5b33dfccc899" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-f39d9c76-bd24-4f76-aa2e-63d0df1bf49a">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-a713e15d-bfd0-48d5-b73b-5e3e511eaeee">
+										<nc xml:id="m-3ba37c2d-630c-4271-a16b-db3ca0379f99" facs="m-859c7f26-c047-4215-82ea-4bce42f18b66" pname="a" oct="2" />
+										<nc xml:id="m-594f1a54-5c4f-4fc8-aa43-fd1cae725f1e" facs="m-02c01d96-e021-442e-ade5-bd9779a37b76" pname="g" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-31a31ef3-3aec-4686-b1e0-48e1014e7a4f">
+									<!--punctum-->
+									<neume xml:id="m-05f9910e-f24f-4075-9b6e-e16339285e49">
+										<nc xml:id="m-9d9b23d1-22df-4d60-a1a8-ee285f17a325" facs="m-56ea7655-0151-49c5-906b-0e4cf4438aa2" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-16302c24-4633-4447-bb7f-53ec1b794bb9">
+									<!--punctum-->
+									<neume xml:id="m-171301f4-7935-4b7e-a3b5-67f2f842ef12">
+										<nc xml:id="m-0a958268-28a8-405a-a659-dd402c836f35" facs="m-4ccfeaf8-3193-4374-be0b-92ce66108856" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-a2642a7a-28bc-4c0a-880b-dd7b6989b947">
+									<!--punctum.u2.punctum.u2.punctum-->
+									<neume xml:id="m-10dee51e-333a-42c1-8ff7-1eee89946160">
+										<nc xml:id="m-e07688e8-0dbb-4826-b235-653204a754bc" facs="m-ce5003c3-2489-4fab-9648-3880a5e67b9d" pname="c" oct="3" />
+										<nc xml:id="m-c25fa74e-ec92-4f10-9a01-cd53fc468c55" facs="m-a921e1e7-c3cd-47e3-a6ce-609f64f25292" pname="d" oct="3" />
+										<nc xml:id="m-fd6b5472-feb5-4742-955d-26472fb4c485" facs="m-b31dc39a-534b-4f65-bb6e-e8ccb1999c47" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-b8a0658a-94dc-4def-8ea8-61b3ee23ed77">
+									<!--punctum, inclinatum, inclinatum, inclinatum, inclinatum-->
+									<neume xml:id="m-2d112006-ac0c-4d39-b859-b14445841633">
+										<nc xml:id="m-419a790d-b958-4cb2-82f3-52c3a9ecc054" facs="m-ae1fd5ad-7811-4f2e-b215-310b61204b81" pname="e" oct="3" />
+										<nc xml:id="m-b93eb50b-5db9-42be-95b7-756eb2898b16" facs="m-81213f9d-9541-4d31-abf3-d40671989eac" pname="d" oct="3" name="inclinatum" />
+										<nc xml:id="m-35ea6191-22bc-457c-a92f-0c37aa6fc4c7" facs="m-6e25f058-ebce-4339-a341-ee159ece1148" pname="c" oct="3" name="inclinatum" />
+										<nc xml:id="m-03d18a1b-b0d1-4462-9613-f7ca30c57756" facs="m-53cb3978-f49c-4953-8c73-73b540fc4754" pname="b" oct="2" name="inclinatum" />
+										<nc xml:id="m-f3b1b5f4-d974-499d-be81-b5b5c156a242" facs="m-4340c38b-0f2d-4020-aa12-f452c4cbf673" pname="a" oct="2" name="inclinatum" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-9ab9150c-0534-4f18-872b-b9771f0c95c9">
+									<!--punctum-->
+									<neume xml:id="m-d6a5e7f9-520f-4fd4-8994-4ad3cab13ac8">
+										<nc xml:id="m-3b061f6a-24c3-413a-b4a1-4c94449e594a" facs="m-84b8d5a3-219a-4fe0-acaa-5222135520ad" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-51cd752f-17d3-4a69-a19c-e819e5fb82a7">
+									<!--punctum-->
+									<neume xml:id="m-179d054a-2a20-40a1-a31d-676087b918ee">
+										<nc xml:id="m-3ceb68b2-540e-45b7-bfea-f1a5322a4e52" facs="m-1492a60f-2780-45c4-8608-6600db921207" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-91dd0d6e-896e-451b-b120-131727a40417">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-fcb2da30-2390-411d-8948-ccd1855e14d1">
+										<nc xml:id="m-71c0a7e6-3693-4990-a129-3d8984b76a81" facs="m-995c44fa-40fa-4324-a9a0-ad1c32e08a9d" pname="b" oct="2" />
+										<nc xml:id="m-1ab3aa0b-6ecd-48a4-8da0-c3c5d7e3075e" facs="m-31124cb9-80b5-48a4-8599-8c62b03b1717" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-1dd75839-3560-44eb-a6b9-01495f3ff90e">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-b8e9eee2-97bf-4802-a725-f758811c22c3">
+										<nc xml:id="m-7838d919-41be-46a9-8818-d167c5381966" facs="m-9a9f5285-4064-4836-8dcc-e80ee6e94dea" pname="c" oct="3" />
+										<nc xml:id="m-d6c66bd3-c7d5-4ed5-9504-0f416d9740cd" facs="m-27720cc5-e949-4cad-bb9e-f9cb8eaa61f7" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-80761450-98fc-4017-a6c2-b91988168084">
+									<!--punctum-->
+									<neume xml:id="m-3021e950-4c77-4950-b6e1-4903a147d419">
+										<nc xml:id="m-362f5cff-5e40-4d7c-9a4c-33006d79d63b" facs="m-9d2032bd-b732-44de-ba02-2b592b21219e" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<custos xml:id="m-fccd37e8-65b3-4281-a113-71871203ddde" facs="m-0c46b8e3-7e9b-44e4-b71a-e937ceb52056" oct="2" pname="a" />
+							</layer>
+						</staff>
+						<staff xml:id="m-a2e25357-73ee-420a-a46c-85261832f83c" facs="m-acab6186-4c82-439a-a876-17fda1df0c67" n="3" lines="4" line_positions="[[[766, 4051], [840, 4051], [1050, 4052], [1261, 4055], [1471, 4054], [1681, 4054], [1891, 4054], [2101, 4055], [2312, 4054], [2522, 4053], [2732, 4050], [2942, 4048], [3152, 4045], [3363, 4042], [3445, 4042], [3446, 4042]], [[766, 4113], [840, 4113], [1050, 4114], [1261, 4117], [1471, 4116], [1681, 4116], [1891, 4116], [2101, 4117], [2312, 4116], [2522, 4115], [2732, 4112], [2942, 4110], [3152, 4107], [3363, 4104], [3445, 4104], [3446, 4104]], [[766, 4175], [840, 4175], [1050, 4176], [1261, 4179], [1471, 4178], [1681, 4178], [1891, 4178], [2101, 4179], [2312, 4178], [2522, 4177], [2732, 4174], [2942, 4172], [3152, 4169], [3363, 4166], [3445, 4166], [3446, 4166]], [[766, 4236], [840, 4236], [1050, 4238], [1261, 4241], [1471, 4240], [1681, 4240], [1891, 4238], [2101, 4239], [2312, 4239], [2522, 4239], [2732, 4236], [2942, 4234], [3152, 4232], [3363, 4230], [3445, 4230], [3446, 4230]], [[766, 4296], [840, 4296], [1050, 4296], [1261, 4301], [1471, 4301], [1681, 4301], [1891, 4299], [2101, 4299], [2312, 4299], [2522, 4300], [2732, 4298], [2942, 4294], [3152, 4291], [3363, 4289], [3445, 4288], [3446, 4288]], [[766, 4355], [840, 4356], [1050, 4358], [1261, 4362], [1471, 4361], [1681, 4362], [1891, 4360], [2101, 4359], [2312, 4358], [2522, 4361], [2732, 4358], [2942, 4355], [3152, 4352], [3363, 4350], [3445, 4349], [3446, 4349]], [[766, 4415], [840, 4416], [1050, 4418], [1261, 4422], [1471, 4421], [1681, 4422], [1891, 4420], [2101, 4419], [2312, 4418], [2522, 4421], [2732, 4418], [2942, 4415], [3152, 4412], [3363, 4410], [3445, 4409], [3446, 4409]], [[766, 4475], [840, 4476], [1050, 4478], [1261, 4482], [1471, 4481], [1681, 4482], [1891, 4480], [2101, 4479], [2312, 4478], [2522, 4481], [2732, 4478], [2942, 4475], [3152, 4472], [3363, 4470], [3445, 4469], [3446, 4469]]]">
+							<layer xml:id="m-35524e58-0aed-4a6e-bcdf-77b45d4f5602">
+								<syllable xml:id="m-486ff1da-ae4f-42e6-b7e5-c3614c4b37ad">
+									<!--punctum, inclinatum-->
+									<neume xml:id="m-131d0154-42e8-4bad-a1b6-b216c93cb2fe">
+										<nc xml:id="m-d57cce1f-9a0e-4f51-b113-8c550a019825" facs="m-a8bd3570-2184-4aee-b078-dc4222e66cba" pname="b" oct="2" />
+										<nc xml:id="m-e005eddc-20a2-4d25-a8a9-b5f21536974b" facs="m-e1b4c92d-623e-41cc-8c1e-685f6ab8f72e" pname="d" oct="3" name="inclinatum" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-9d494202-7468-48e7-9f41-43dd70bf7472">
+									<!--punctum-->
+									<neume xml:id="m-d06c44e3-8fde-448f-8204-b1eff2c05c3b">
+										<nc xml:id="m-0d191879-8bb4-47ba-aaed-66b56dc53ac9" facs="m-ebfd2ce5-be68-4fa8-baca-bd0364b825c6" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-a310d500-f0fb-4804-b835-1fd2a3f1dba2">
+									<!--punctum-->
+									<neume xml:id="m-776f556a-7601-4bde-b73c-240c4895aca5">
+										<nc xml:id="m-548a0083-239f-4fd6-b397-9add35d36131" facs="m-6ecae4b4-23a8-4c84-a964-be06b27fc0c0" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-20fcb1f7-3ca2-45b3-a0db-76d39e3d7161">
+									<!--punctum-->
+									<neume xml:id="m-7943bac9-8b7d-46ff-a70e-12187270e1f1">
+										<nc xml:id="m-4c172b75-2502-44c5-bb55-b29d366cdf44" facs="m-783ffd06-9b79-4ed7-b20b-b439879d8d21" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-ccadea8b-00c2-4c66-b4ce-787ff5317176">
+									<!--punctum-->
+									<neume xml:id="m-aca7d856-734c-4b2e-9edd-fcd750c6b0ef">
+										<nc xml:id="m-dad9ebb2-2c02-448d-bfc7-9ec7f19f8261" facs="m-1e8b868b-a202-4d87-9be0-84c990c52090" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-56957998-72fc-42b0-958a-4d55162f23ab">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-76f97049-843a-44f2-a82d-f325db16b8b6">
+										<nc xml:id="m-88db7eb8-4eb8-43f1-bc16-82e5b2a23119" facs="m-3e5007ee-e16c-452e-8129-9b8d60f04668" pname="d" oct="3" />
+										<nc xml:id="m-2438e826-714a-446f-95c4-efb34bee7d09" facs="m-26df2074-26c7-45ec-baa9-076477214fd4" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-d3251445-cbbb-423b-b900-acf858c57a1e">
+									<!--punctum-->
+									<neume xml:id="m-c60e5130-6691-46fd-819a-f7b0cb54b7dc">
+										<nc xml:id="m-538726dd-25e5-41cd-bd16-da2988274db4" facs="m-44391693-c3d9-4244-9b92-a4584779ddf6" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-6440fdf4-bb34-4d86-ab9f-68baa78f7552">
+									<!--punctum.u2.punctum-->
+									<neume xml:id="m-8e7a57dd-1da7-448f-9255-cccca9793979">
+										<nc xml:id="m-abb4fca1-7cb4-4726-984d-cb3d8b672825" facs="m-89cd284a-60d9-4707-a6e9-ae61ed4515e7" pname="d" oct="3" />
+										<nc xml:id="m-617e906c-8b1f-4063-8e31-5e594bb99f25" facs="m-21f3973c-7194-4dd8-82e4-a86ab4d9a827" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-85ab605c-2672-4b2e-86bb-7cc4ed43554c">
+									<!--punctum-->
+									<neume xml:id="m-e47ab67b-4b35-49f8-b4fc-93777d1da7ae">
+										<nc xml:id="m-f87e31b7-cd55-48de-9165-bb444acab434" facs="m-a2e8f197-3be1-4ae2-a563-7342f0e653e4" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-e39cade2-7a19-439d-94e7-7dcbabb947d7">
+									<!--punctum-->
+									<neume xml:id="m-9d9ea5e8-2443-4b3e-a478-46ccb4ac4acc">
+										<nc xml:id="m-786efc2a-96c5-48e7-81a0-2b71b35f3869" facs="m-49724984-e994-4213-af1c-58c44dc3a23f" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-513695f8-f3ad-4906-8d1a-5f69fe8945b4">
+									<!--punctum, punctum-->
+									<neume xml:id="m-b76dd2ee-e3d8-4916-a2d3-7e6e46e03cff">
+										<nc xml:id="m-9a113424-851b-499b-b06b-b0d9530e8581" facs="m-4e6412ad-79a1-4627-b529-37c8ec894b50" pname="d" oct="3" />
+										<nc xml:id="m-f53f218d-f819-4bfa-b6a1-075d6d76b464" facs="m-107a58fb-173e-49c5-8d9a-28209ef62666" pname="f" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-0d11580c-9570-4769-a95e-23e4600c03b7">
+									<!--punctum-->
+									<neume xml:id="m-f6d041ca-17ed-43dc-80d6-67eee9e5c14a">
+										<nc xml:id="m-80ff02c4-f904-49a9-b99f-0deff0702ee6" facs="m-c46465b6-95ba-4b73-b2a0-ab73d60fb7ce" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-c6283514-07ec-475b-9dad-85af4f161944">
+									<!--punctum.u2.punctum-->
+									<neume xml:id="m-bfffd1f0-2cd0-4f49-a6b9-cad49799a790">
+										<nc xml:id="m-c0fc1a38-9374-47d0-ae48-7768935336e1" facs="m-8ab9beaa-86cb-4225-ae38-ba40518b5f5d" pname="d" oct="3" />
+										<nc xml:id="m-4fe2779d-67e3-4d53-9a86-2eef07f2bc2d" facs="m-be2b9886-3cca-4a2b-9c98-854c29730b0a" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-957b4618-1fb5-4398-bbba-bd4593dc8be3">
+									<!--punctum, inclinatum, inclinatum, inclinatum, inclinatum-->
+									<neume xml:id="m-8c38d578-0021-4901-924e-3a6c58ba8071">
+										<nc xml:id="m-8389168e-6161-4236-adec-cfc9a1c2249a" facs="m-b3d99a13-949e-407a-95f7-38c543a218a9" pname="e" oct="3" />
+										<nc xml:id="m-0de9fdb0-8f2f-41a7-a516-452aba867eeb" facs="m-663089de-a57b-4b9d-b641-9fd57c764bfe" pname="d" oct="3" name="inclinatum" />
+										<nc xml:id="m-69342924-a2b1-449b-91cc-345f2407d750" facs="m-0eecf91c-e0ce-4b62-bd98-a75ad4fd5d5a" pname="c" oct="3" name="inclinatum" />
+										<nc xml:id="m-226ab281-6ace-4f54-9d0a-2fef87ce01de" facs="m-6367bd86-fcfb-4509-9628-ce96d255a64a" pname="b" oct="2" name="inclinatum" />
+										<nc xml:id="m-b88c24c2-d8d1-4c5c-b697-2d0658979480" facs="m-936437a5-6642-49d4-b8d1-cf240b22efc5" pname="a" oct="2" name="inclinatum" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-d1a49dfd-4d79-4ba6-bb2c-a55eae36ca07">
+									<!--punctum-->
+									<neume xml:id="m-ce8f403c-6c42-4042-b03f-913f359ee9bf">
+										<nc xml:id="m-085a9169-a842-40e5-9df5-b58091381810" facs="m-f25d52be-b993-4793-955f-12cb18776bd1" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-fe517299-2cb3-4a79-81fb-03734d1c63d6">
+									<!--punctum-->
+									<neume xml:id="m-9114db52-d88c-49f0-8de5-49317030fd39">
+										<nc xml:id="m-e0861d76-59d8-47b8-9300-e7436890d06c" facs="m-6a3e064e-f7ad-4555-a7fa-b73bf83d9b02" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<custos xml:id="m-6f73de39-add2-429f-8e3a-0ef466dfe2e6" facs="m-ccdaf5dd-ab4f-4a5f-aa97-beed70672efa" oct="2" pname="b" />
+							</layer>
+						</staff>
+						<staff xml:id="m-6f3b8ea8-0769-47b6-b322-6c3383904145" facs="m-c5308e3c-3305-4a01-a421-149764245dbf" n="4" lines="4" line_positions="[[[791, 4414], [840, 4414], [1050, 4417], [1261, 4421], [1471, 4421], [1681, 4422], [1891, 4421], [2101, 4420], [2312, 4418], [2522, 4421], [2732, 4419], [2942, 4415], [3152, 4413], [3363, 4410], [3474, 4408], [3475, 4408]], [[791, 4478], [840, 4478], [1050, 4481], [1261, 4485], [1471, 4485], [1681, 4486], [1891, 4485], [2101, 4484], [2312, 4482], [2522, 4485], [2732, 4483], [2942, 4479], [3152, 4477], [3363, 4474], [3474, 4472], [3475, 4472]], [[791, 4542], [840, 4542], [1050, 4545], [1261, 4549], [1471, 4549], [1681, 4550], [1891, 4549], [2101, 4548], [2312, 4546], [2522, 4549], [2732, 4547], [2942, 4543], [3152, 4541], [3363, 4538], [3474, 4536], [3475, 4536]], [[791, 4605], [840, 4605], [1050, 4607], [1261, 4610], [1471, 4611], [1681, 4612], [1891, 4611], [2101, 4609], [2312, 4608], [2522, 4607], [2732, 4606], [2942, 4605], [3152, 4603], [3363, 4601], [3474, 4600], [3475, 4599]], [[791, 4664], [840, 4664], [1050, 4666], [1261, 4667], [1471, 4670], [1681, 4670], [1891, 4672], [2101, 4670], [2312, 4668], [2522, 4672], [2732, 4671], [2942, 4667], [3152, 4664], [3363, 4661], [3474, 4660], [3475, 4660]], [[791, 4725], [840, 4725], [1050, 4726], [1261, 4729], [1471, 4730], [1681, 4733], [1891, 4733], [2101, 4730], [2312, 4728], [2522, 4732], [2732, 4732], [2942, 4728], [3152, 4726], [3363, 4723], [3474, 4722], [3475, 4722]], [[791, 4787], [840, 4787], [1050, 4788], [1261, 4791], [1471, 4792], [1681, 4795], [1891, 4795], [2101, 4792], [2312, 4790], [2522, 4794], [2732, 4794], [2942, 4790], [3152, 4788], [3363, 4785], [3474, 4784], [3475, 4784]], [[791, 4849], [840, 4849], [1050, 4850], [1261, 4853], [1471, 4854], [1681, 4857], [1891, 4857], [2101, 4854], [2312, 4852], [2522, 4856], [2732, 4856], [2942, 4852], [3152, 4850], [3363, 4847], [3474, 4846], [3475, 4846]]]">
+							<layer xml:id="m-cda06291-683c-49dc-b225-26ccbc236052">
+								<clef xml:id="m-e22f030a-922c-486c-82a1-009edf269ded" shape="C" line="3" facs="m-3d1ec561-baa1-43d9-bbf8-502d78edd780" />
+								<syllable xml:id="m-cc1dbbe3-b380-4367-b09f-437418a2123e">
+									<!--punctum-->
+									<neume xml:id="m-2dd49596-6d94-46f8-9ffd-dad2c940d97e">
+										<nc xml:id="m-df8db7dc-188c-459d-a15d-0e54742cd77a" facs="m-170ef513-1001-4459-b713-1d554fc2cf15" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-2156d189-4fd8-44f2-a838-3b26b86a3bb2">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-c394803e-b0c6-4b4a-abac-118d1256795e">
+										<nc xml:id="m-c79a4e54-8487-4c00-b824-cad1c14dd0a8" facs="m-a5374957-aabd-40cd-beed-bec151078448" pname="c" oct="3" />
+										<nc xml:id="m-e41504e3-a4ee-4821-8194-ff22a24deb2b" facs="m-c713aa62-65c8-4dc9-ae39-02cd37e791f9" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-37e4bc4f-d37b-486c-a0b7-f5c1019b568a">
+									<!--punctum-->
+									<neume xml:id="m-38f353f7-21f4-4d78-bd69-57b0a7c0ed38">
+										<nc xml:id="m-22f0ab06-19e3-4e66-81cc-2e0c5ffedf19" facs="m-3225c29d-8d3b-4c90-9cc7-6f904a12d140" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-ebf3c97f-c749-42ce-8efa-15bfcfd1ad97">
+									<!--punctum-->
+									<neume xml:id="m-e1ff027a-e262-4937-99c0-6888ba9d1d7e">
+										<nc xml:id="m-51e15733-5f8b-4974-ae88-6fe6df3f2f83" facs="m-f5e0c92c-bb09-469c-81d1-8a1d40ddfc49" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-0139a0c8-1ea4-4c69-83f9-9fbc1921e76b">
+									<!--punctum-->
+									<neume xml:id="m-62c36875-23bb-4157-985b-c7c19bb3ef71">
+										<nc xml:id="m-6d42b1c9-15aa-4999-bcaa-2f577d682293" facs="m-2050a429-bdb0-4808-a106-643b40a298e2" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-8882e21a-f6dc-42e2-8abd-f347ec3adf6a">
+									<!--punctum-->
+									<neume xml:id="m-46fb328a-be7f-4aac-ab9e-d87e1396c435">
+										<nc xml:id="m-f4aa0968-3935-455f-878c-913dd41eb030" facs="m-2009a85a-887c-4940-b1a6-6a326a9cd705" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-9981401e-d480-4af0-8f97-000d8e05ca73">
+									<!--punctum, punctum-->
+									<neume xml:id="m-b2adb7db-ccae-49a8-93b9-b06f479e0911">
+										<nc xml:id="m-18912d31-9822-478f-a66f-1639547c70b8" facs="m-f5b38b25-a1a7-4c38-bdcd-92d2ee8555cd" pname="a" oct="2" />
+										<nc xml:id="m-c37ce8e9-0eff-4598-a7cb-5667504b2cf6" facs="m-04e14a51-dea4-42a7-abfa-d0efb284f1f5" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-abeb852a-1378-42c0-a7f3-4471d642f7cf">
+									<!--punctum-->
+									<neume xml:id="m-2e0615fd-f8ab-4cdc-808e-cc46a70b86d6">
+										<nc xml:id="m-9aa55562-0749-4bf7-89a9-5e3e0a33bd98" facs="m-2d1aebd9-bc25-4be0-9e81-00472f03bfcc" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-c4583c76-0b53-48e4-b656-38679d68a483">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-02e62299-734e-4cbb-a563-a4219e1c5d2d">
+										<nc xml:id="m-6af69740-8de6-43f0-b852-2ff5092f6e12" facs="m-1e7b0916-e9a5-4f8e-aee9-6a474754150c" pname="a" oct="2" />
+										<nc xml:id="m-5569da7d-26be-4fa8-81e3-ae1f604d2250" facs="m-81499ac3-384e-4258-8384-7cc05af0cd2e" pname="g" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-5fccd2b1-7e10-4235-9875-1685cca356b7">
+									<!--punctum-->
+									<neume xml:id="m-b5a5082e-fe9c-4d4e-89a9-b1e72d70da99">
+										<nc xml:id="m-19bafdeb-5535-4ca8-a8b6-c134cf2f9022" facs="m-6cabe98b-8a73-4a26-a5c6-72c9117473fe" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-0f0bb414-5c0c-4130-be09-f7fa54b348c9">
+									<!--punctum-->
+									<neume xml:id="m-d482cd49-a74d-452d-904b-ed5b971f5147">
+										<nc xml:id="m-0cbf29ca-aab0-4042-bc2c-e5e675aadd51" facs="m-a3696f96-ee0c-45d3-a4a1-ab7f10f67ade" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-073beed5-9465-4613-a6c7-d7b4ec239e0b">
+									<!--punctum.u2.punctum.u2.punctum-->
+									<neume xml:id="m-156d5300-9eb1-453d-8c9e-ecd97f7d092e">
+										<nc xml:id="m-abf4aa0e-64fc-41eb-a312-977e739a39e4" facs="m-783ac884-12cc-443b-8297-13e1a109a266" pname="c" oct="3" />
+										<nc xml:id="m-3235e619-4544-4b78-96e1-e28cf31f0bd2" facs="m-a011d57c-3f6b-412b-89eb-c7008cae193f" pname="d" oct="3" />
+										<nc xml:id="m-4c1a1225-57c3-4603-93d7-5a2528d311bd" facs="m-13473431-0ae0-4400-87f2-04a7532fe8cd" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-d3ffa37c-00c4-4ae6-81e4-790ed4ddec30">
+									<!--punctum-->
+									<neume xml:id="m-c4a002c1-56c7-4bf4-b860-372d9193b421">
+										<nc xml:id="m-df9f1f84-1395-4d46-be1e-f024b415e059" facs="m-2378f7f5-aca5-4909-9bf9-8da85efd7972" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-3950ad88-2a89-40d2-bf87-3b905907c469">
+									<!--punctum-->
+									<neume xml:id="m-178f6cfd-1fef-4e8e-b4f5-7c36a4cae974">
+										<nc xml:id="m-98245e83-d1b0-42a1-a1e7-48c42a649428" facs="m-f6182182-709d-410e-920d-c9d8921d922b" pname="e" oct="3" />
+									</neume>
+								</syllable>
+								<custos xml:id="m-fdd3e10b-0505-44f7-a653-a0ebb1cdbb75" facs="m-0560d865-4646-485b-8401-3199591e743b" oct="3" pname="d" />
+							</layer>
+						</staff>
+						<staff xml:id="m-2a8d397f-9935-44cb-8550-83f7d12029dc" facs="m-b5f8e7b1-cb72-4ddd-becc-8fb1d7b5f9dc" n="5" lines="4" line_positions="[[[790, 4808], [840, 4808], [1050, 4809], [1261, 4811], [1471, 4812], [1681, 4817], [1891, 4817], [2101, 4814], [2312, 4811], [2522, 4816], [2732, 4816], [2942, 4811], [3152, 4808], [3363, 4806], [3448, 4806], [3449, 4806]], [[790, 4870], [840, 4870], [1050, 4871], [1261, 4873], [1471, 4874], [1681, 4879], [1891, 4879], [2101, 4876], [2312, 4873], [2522, 4878], [2732, 4878], [2942, 4873], [3152, 4870], [3363, 4868], [3448, 4868], [3449, 4868]], [[790, 4932], [840, 4932], [1050, 4933], [1261, 4935], [1471, 4936], [1681, 4941], [1891, 4941], [2101, 4938], [2312, 4935], [2522, 4940], [2732, 4940], [2942, 4935], [3152, 4932], [3363, 4930], [3448, 4930], [3449, 4930]], [[790, 4994], [840, 4994], [1050, 4995], [1261, 4996], [1471, 4996], [1681, 5003], [1891, 5004], [2101, 5001], [2312, 4998], [2522, 5001], [2732, 5002], [2942, 4998], [3152, 4994], [3363, 4992], [3448, 4991], [3449, 4991]], [[790, 5054], [840, 5054], [1050, 5055], [1261, 5056], [1471, 5057], [1681, 5063], [1891, 5065], [2101, 5061], [2312, 5058], [2522, 5062], [2732, 5063], [2942, 5059], [3152, 5055], [3363, 5053], [3448, 5052], [3449, 5052]], [[790, 5114], [840, 5114], [1050, 5115], [1261, 5116], [1471, 5117], [1681, 5123], [1891, 5125], [2101, 5122], [2312, 5119], [2522, 5123], [2732, 5124], [2942, 5120], [3152, 5116], [3363, 5111], [3448, 5111], [3449, 5111]], [[790, 5174], [840, 5174], [1050, 5175], [1261, 5176], [1471, 5177], [1681, 5183], [1891, 5185], [2101, 5182], [2312, 5179], [2522, 5183], [2732, 5184], [2942, 5180], [3152, 5176], [3363, 5171], [3448, 5171], [3449, 5171]], [[790, 5234], [840, 5234], [1050, 5235], [1261, 5236], [1471, 5237], [1681, 5243], [1891, 5245], [2101, 5242], [2312, 5239], [2522, 5243], [2732, 5244], [2942, 5240], [3152, 5236], [3363, 5231], [3448, 5231], [3449, 5231]]]">
+							<layer xml:id="m-c097f47b-f19e-4774-9172-0a3f4a0c7ec0">
+								<clef xml:id="m-66c956f8-2a4c-4747-85ad-cb10ddef89fa" shape="C" line="3" facs="m-38c258ac-02e5-46cc-a0e0-eedbd498c6e7" />
+								<syllable xml:id="m-ea3e0230-1d08-47ea-9de1-5a493bec6c73">
+									<!--punctum-->
+									<neume xml:id="m-835efcea-680d-4c56-b106-c6223c8caa48">
+										<nc xml:id="m-36e52cbe-d669-47a1-9d75-a35546282d04" facs="m-0c08ea69-bd8a-4dbe-a607-5854867dd11f" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-fdf6c7ea-445b-428b-8889-5b13ba1468eb">
+									<!--punctum-->
+									<neume xml:id="m-c86807e2-f98a-4ee4-9eb5-bc36b8c5c6ce">
+										<nc xml:id="m-4abdadac-4f26-4066-8c50-14cbee93384e" facs="m-baae2b43-6d8f-4b2f-8679-f2d43bf18baa" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-4e8a1ebc-03d4-4b0c-9bf1-fb6fe8e6745f">
+									<!--punctum-->
+									<neume xml:id="m-d16c8cc4-f4bc-41be-92e7-d3312645a130">
+										<nc xml:id="m-0bb72210-9fe4-47fe-bd1d-af40719d2f79" facs="m-0da06b41-aec6-41bd-9c60-a99e7a68ccf3" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-dc875664-6830-4cbe-87bf-c0edb853135a">
+									<!--punctum-->
+									<neume xml:id="m-551d778d-1ac7-464f-9bf0-b9632d3a32e7">
+										<nc xml:id="m-92a245f4-15fa-47da-a78e-2457e0c8d8b5" facs="m-8321d87c-d3b8-4686-a4a1-14249f26c3f0" pname="d" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-a9bf9f74-3f46-46f5-839d-0c46b07ae441">
+									<!--punctum.d2.punctum-->
+									<neume xml:id="m-6974961b-5831-4461-b434-99ee6d32a93e">
+										<nc xml:id="m-0f195593-d1ed-4ddd-b5a0-4d7a63c1d47b" facs="m-c49cc9e0-1352-413b-b66e-9f57fc02216c" pname="c" oct="3" />
+										<nc xml:id="m-273b5e5d-0467-44db-9a92-42b0b8603c20" facs="m-4d5612c5-f7b4-4eb5-bb53-3a88e7630116" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-b561e28c-e009-467a-badf-cfd7b3d0d75a">
+									<!--punctum-->
+									<neume xml:id="m-00d5e0d2-44cb-4e63-84f3-7412ed31032b">
+										<nc xml:id="m-f4108376-691f-4be0-a9fb-fbf1c9db0884" facs="m-d736d9d6-b28b-4bc9-9ffb-642ea0d174e0" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-493b133d-9e8c-4b80-addc-015ee87e7d62">
+									<!--punctum-->
+									<neume xml:id="m-b504898b-f7af-429d-9205-87656f8ac80e">
+										<nc xml:id="m-557289c5-e339-4f31-95d8-71f3f7d97034" facs="m-497eb7a5-ee15-40fb-b6f0-ce784ee4c981" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-17306361-3692-4ebb-8f54-26adac5968da">
+									<!--punctum-->
+									<neume xml:id="m-19d609bd-a23a-4f37-9531-794edc4f5d59">
+										<nc xml:id="m-2d608ad5-09ec-4ee2-b048-10978f416307" facs="m-68eb659d-7c87-4ccd-832d-32133a599a3f" pname="g" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-68597bfe-50bf-4f66-8717-66f39a16c707">
+									<!--punctum-->
+									<neume xml:id="m-48e527b0-6616-48d2-b53d-b48968805f90">
+										<nc xml:id="m-a3d078c1-3fb7-4f8c-af8a-ebc18dd20a8f" facs="m-c5beb20f-da5b-4d2d-a1d4-7196e90c0b5a" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-12c3cba6-e09c-4480-a381-71cd4aab97d9">
+									<!--punctum-->
+									<neume xml:id="m-6e8257e4-06f0-47e0-a949-8b9ad9ccdd92">
+										<nc xml:id="m-8bb0d3dd-cff0-459a-b018-44b45fa1d7b1" facs="m-0b3ecd29-b8a2-4ada-979e-31f37067fb37" pname="c" oct="3" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-51034ad3-e8bb-4ee3-926b-d88e2899693b">
+									<!--punctum-->
+									<neume xml:id="m-1cd48dcf-13bb-416d-b3a7-d5a5757d62cf">
+										<nc xml:id="m-c2d8e9f8-5e1f-441c-b2b7-5a202f2d1911" facs="m-1da933bf-2712-44c8-836e-a68c3a627d81" pname="b" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-0047302d-c5d2-45b5-b5f3-4455e4e09812">
+									<!--punctum.u2.punctum-->
+									<neume xml:id="m-12f976e9-2699-4c84-8c0b-36392b9f05dc">
+										<nc xml:id="m-31230a28-e7bd-4670-9481-3eb5ff37d97a" facs="m-d35cf2b9-fe38-404f-bc3d-b6b1b62a0dee" pname="g" oct="2" />
+										<nc xml:id="m-94271f6f-e3da-422c-8dc6-1e4c5e3888d7" facs="m-03f1e52c-27a8-4e3f-9e39-28e425a34c25" pname="a" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-93791a7a-e051-45bc-8497-e23f9aed630f">
+									<!--punctum-->
+									<neume xml:id="m-518021cc-a7f4-47cc-aeb9-d6e11cbd11ae">
+										<nc xml:id="m-963ab2c7-7cff-4248-893a-661e0cbf5621" facs="m-69b3a6d7-8516-4366-b6d7-5812ef3ba93a" pname="g" oct="2" />
+									</neume>
+								</syllable>
+								<syllable xml:id="m-8d639434-cf56-468c-974f-36231ec83c6e">
+									<!--punctum, inclinatum, inclinatum-->
+									<neume xml:id="m-29acdb28-feaa-482b-94ed-1c7209ed5320">
+										<nc xml:id="m-c75e05c0-dded-418f-a974-2b22373ea6e2" facs="m-15ca3a4f-808c-44f2-8c7f-7720c4811dc3" pname="c" oct="3" />
+										<nc xml:id="m-a310c7c3-c19e-40e0-a034-0d4baaa52782" facs="m-73720a05-37a3-4d5c-888f-60a8e3154cb9" pname="b" oct="2" name="inclinatum" />
+										<nc xml:id="m-060f1c86-a483-40d3-a43a-80d3e15e8287" facs="m-d9daba16-8c82-4c54-a119-656c1756e5f9" pname="a" oct="2" name="inclinatum" />
+									</neume>
+								</syllable>
+								<custos xml:id="m-4da582ea-1b39-48db-bf0e-0fcd9d239cf8" facs="m-c60a87dc-35bc-4461-88ec-b429d2f68332" oct="2" pname="b" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

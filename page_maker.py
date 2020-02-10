@@ -11,6 +11,11 @@ from bs4 import Comment
 import re
 import random
 
+################################################################################
+# IMPORTANT INFO (20-02-10 update)
+# - use 'output_img_191023' images and 'output_nc_split_191023' for making pages
+
+
 print('How many staffs do you want on a page?')
 num_staffs = int(input())
 
@@ -23,8 +28,8 @@ margin_right = 200
 staff_spacing = 100
 staff_image = Image.open('fake_staff_lines.png', 'r')
 
-neume_path = 'output_img/'
-neume_info = pd.read_csv('output.txt')
+neume_path = 'output_img_191023/'
+neume_info = pd.read_csv('output_nc_split_191023.txt')
 neume_info = neume_info.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
 # print(neume_info)
 
@@ -45,7 +50,7 @@ for i in range(num_staffs):
     if top_offset + int(0.33 * i * staff_width_orig*staff_scale) > page_height - bottom_offset:
         break
     neume_name = random.choice(neume_info['file_name'])
-    neume_image = Image.open(neume_path + neume_name + '.png', 'r')
+    neume_image = Image.open(neume_path + neume_name, 'r')
     neume_image = neume_image.crop((0,15, neume_image.size[0], neume_image.size[1] - 15))
 
     staff_scale_height = staff_scale * random.uniform(0.93, 1.07)
@@ -57,7 +62,7 @@ for i in range(num_staffs):
     blank_image.paste(staff_place, (margin_left + margin_left_offset , top_offset + int(0.33 * i * staff_width_orig*staff_scale)), mask=staff_place)
     num_neumes = random.randint(15, 30)
     for j in range(num_neumes):
-        if j == 0: # 
+        if j == 0: #
             choice = clefs.sample(n=1)
             choice_file, choice_type = choice.iloc[0]
             n_place = random.choice([0, 2, 4])
@@ -82,7 +87,7 @@ for i in range(num_staffs):
             else:
                 n_place = random.randint(0,8)
                 scale = 1/3
-        n_image = Image.open(neume_path + choice_file  + '.png')
+        n_image = Image.open(neume_path + choice_file)
         n_image = n_image.crop((0,15, n_image.size[0], n_image.size[1] - 15))
         n_ratio = n_image.size[0] / n_image.size[1]
         n_image = n_image.resize((int(scale*h*n_ratio), int(scale*h)), Image.ANTIALIAS)

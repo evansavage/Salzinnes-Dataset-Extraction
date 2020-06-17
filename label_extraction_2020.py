@@ -95,6 +95,13 @@ ob4_dim_ein = [5,0,20,0]
 punc_dim_ein = [5,5,30,5]
 virga_dim_ein = [5,5,20,80]
 
+test_splits = [
+    ['CF-009','CF-010','Ein-001v'],
+    ['CF-011','CF-012','Ein-002r'],
+    ['CF-013','CF-014','Ein-002v'],
+    ['CF-015','CF-016','Ein-003r'],
+    ['CF-017','CF-018','Ein-003v']
+]
 
 
 if data_arrangement in ['t','T']:
@@ -374,10 +381,19 @@ if data_arrangement in ['t','T']:
             #                     h_max = height
             #                 print(f'Saving { mei_file[:-4] }_{ j }.png', f'Avg dim: { w_sum / total_img } by { h_sum / total_img }', f'Max width: { w_max }', f'Max height: { h_max }')
             #                 j += 1
-    pickle_dict = {}
-    pickle_dict['Filenames'] = file_name_arr
-    pickle_dict['Labels'] = int_label_arr
-    pickle.dump(pickle_dict, open(f'label_map_{ date }.pickle', 'wb'))
+    split_iter = 0
+    for split in test_splits:
+        pickle_dict = {}
+        split_file_arr = []
+        split_label_arr = []
+        for i, file in enumerate(file_name_arr):
+            if file.split("_")[0] not in split:
+                split_file_arr.append(file)
+                split_label_arr.append(int_label_arr[i])
+        pickle_dict['Filenames'] = split_file_arr
+        pickle_dict['Labels'] = split_label_arr
+        pickle.dump(pickle_dict, open(f'label_map_{ date }_{ split_iter }.pickle', 'wb'))
+        split_iter += 1
 elif data_arrangement in ['s','S']:
     for i, mei_file in enumerate(sorted(os.listdir(mei_path_unsplit))):
         if mei_file.endswith('.DS_Store'):

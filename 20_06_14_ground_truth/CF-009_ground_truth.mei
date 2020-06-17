@@ -345,7 +345,6 @@
                 <zone xml:id="m-2ecec723-f0e8-4b53-87d4-1b29fe8123f0" ulx="2135" uly="4954" lrx="2180" lry="4985"/>
                 <zone xml:id="m-423a2522-bd18-4a6c-a4e0-d365339af819" ulx="2174" uly="4985" lrx="2219" lry="5016"/>
                 <zone xml:id="m-a93081a1-0fab-460a-b105-47e53956cc2a" ulx="2570" uly="5016" lrx="2615" lry="5047"/>
-                <zone xml:id="m-599d39d7-648c-480c-a250-1834c7a43398" ulx="2610" uly="5078" lrx="2655" lry="5109"/>
                 <zone xml:id="m-81367642-b878-4539-bdac-e5817987d569" ulx="2972" uly="4828" lrx="3382" lry="5012"/>
                 <zone xml:id="m-0d38251d-bb41-46bf-a423-2161ce309f14" ulx="2988" uly="4889" lrx="3031" lry="4919"/>
                 <zone xml:id="m-d2902d25-55ce-4288-a2c7-d064f243f977" ulx="3108" uly="4979" lrx="3151" lry="5009"/>
@@ -2560,12 +2559,6 @@
                                         <nc xml:id="m-3da20045-64ed-46ff-9eed-84c00166f612" facs="#m-a93081a1-0fab-460a-b105-47e53956cc2a" oct="2" pname="f"/>
                                     </neume>
                                     <syl xml:id="syl-0000000209858720" facs="#zone-0000000119490588"/>
-                                </syllable>
-                                <syllable xml:id="m-518c4bb4-63c1-4e9f-8fe9-b8397ae3e0c3">
-                                    <neume xml:id="m-45cad5a4-bd29-4f3d-ae5e-462d64270e26">
-                                        <nc xml:id="m-23eddf62-cdec-4046-b01b-ea84eb56b2bc" facs="#m-599d39d7-648c-480c-a250-1834c7a43398" oct="2" pname="d"/>
-                                    </neume>
-                                    <syl xml:id="syl-0000001209273193" facs="#zone-0000001477824782"/>
                                 </syllable>
                                 <sb n="13" facs="#m-81367642-b878-4539-bdac-e5817987d569" xml:id="m-061ad4ea-76c9-4e78-b47c-9aa4ce98016b"/>
                                 <clef xml:id="m-e49d8d8f-d2d3-4403-b970-2250d957843a" facs="#m-0d38251d-bb41-46bf-a423-2161ce309f14" shape="C" line="3"/>

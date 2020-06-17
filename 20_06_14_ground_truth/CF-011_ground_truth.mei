@@ -194,8 +194,6 @@
                 <zone xml:id="m-96e27f04-85e3-4f18-94f1-fd3a66ff4a69" ulx="1263" uly="2954" lrx="1306" lry="2984"/>
                 <zone xml:id="m-6e418e46-d73a-46dd-8484-5ef8de81d2e1" ulx="1296" uly="2895" lrx="1339" lry="2925"/>
                 <zone xml:id="m-69686203-89a9-4f93-849b-82e1a544019c" ulx="1336" uly="2985" lrx="1379" lry="3015"/>
-                <zone xml:id="m-74ad2dcd-6e20-4c96-a385-880b08ad827e" ulx="1251" uly="2804" lrx="1294" lry="2834"/>
-                <zone xml:id="m-b6e8c4e1-74c1-4c9a-9b3a-7f98eb755501" ulx="1275" uly="2804" lrx="1318" lry="2834"/>
                 <zone xml:id="m-3e9fd9dd-a13c-4e02-9f0f-0874f703ccae" ulx="1413" uly="2956" lrx="1456" lry="2986"/>
                 <zone xml:id="m-9938b5ec-e88a-4311-9fb9-982981aed8a3" ulx="1454" uly="2987" lrx="1497" lry="3017"/>
                 <zone xml:id="m-878719a0-31c1-428f-b761-1df20181b59c" ulx="1506" uly="2987" lrx="1549" lry="3017"/>
@@ -1801,14 +1799,12 @@
                                     </neume>
                                     <syl xml:id="syl-0000001528697217" facs="#zone-0000001083001903"/>
                                 </syllable>
-                                <custos facs="#m-74ad2dcd-6e20-4c96-a385-880b08ad827e" oct="3" pname="f" xml:id="m-419c32ac-d438-45f6-83da-49c73f795f69"/>
                                 <syllable xml:id="syllable-0000001479621078">
                                     <neume xml:id="neume-0000001180775046">
                                         <nc xml:id="m-4367ace3-0b1e-4b0a-a2b5-637a4196d568" facs="#m-96e27f04-85e3-4f18-94f1-fd3a66ff4a69" oct="2" pname="a"/>
                                     </neume>
                                     <syl xml:id="syl-0000000431426014" facs="#zone-0000001253524720"/>
                                 </syllable>
-                                <custos facs="#m-b6e8c4e1-74c1-4c9a-9b3a-7f98eb755501" oct="3" pname="f" xml:id="m-74327430-efa4-4cbd-86c4-b08dc558e11f"/>
                                 <syllable xml:id="syllable-0000000218721915">
                                     <neume xml:id="neume-0000002024296755">
                                         <nc xml:id="m-c8c5c47e-1de2-44a2-9e8c-224d96013a7c" facs="#m-6e418e46-d73a-46dd-8484-5ef8de81d2e1" oct="3" pname="c"/>
